@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'haml', '~>3.1'
+gem 'haml', '~>5.0'
 gem 'sass'
 gem 'sinatra'
 gem 'rmagick', :require => 'RMagick'
